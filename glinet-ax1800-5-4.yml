@@ -64,3 +64,4 @@ packages:
   - luci-app-aliyundrive-webdav
   - luci-app-turboacc
   - luci-app-uugamebooster
+  - luci-app-adguardhome
